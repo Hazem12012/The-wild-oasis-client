@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import ImageLogo from "../../public/icon.svg";
+import ImageLogo from "../../public/Light-Logo.png";
 function Logo() {
   return (
     <Link href="/" className="flex item-center gap-4 z-10">
